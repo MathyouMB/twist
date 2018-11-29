@@ -5,7 +5,6 @@ Twist is a Twitter app that retweets the posts of users in a specified twitter u
 To run this script, you will need to install the Python Tweepy module and create a twitter app. 
 ```shell
 pip install tweepy
-
 python -m pip install tweepy
 ```
 To use this twitter app, make sure you generate consumer and access keys.
